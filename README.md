@@ -14,10 +14,15 @@ El lenguaje de programación empleado es _Racket_ con el entorno de desarrollo (
 ## ¿Dudas?
 Escribe a alguno de los facilitadores
 
-* facilitador@lidsol.org
-* facilitador@lidsol.org
-* facilitador@lidsol.org
-* facilitador@lidsol.org
+* juan.carreon@gmail.com
+* paul.aguilar.enriquez@hotmail.com
+* luisunamfi@gmail.com
+* emilio1625@gmail.com
+
+## Agradecimientos
+
+Éste proyecto es parte del **PAPIME PE104415 - Drupal Camp y Web Academy**, dirigido por el M. 
+Juan Jóse Carreón Granados, en colaboración con el LIDSOL.
 
 ## Referencias
 Curso basado en el libro [How to design programs 2nd Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
