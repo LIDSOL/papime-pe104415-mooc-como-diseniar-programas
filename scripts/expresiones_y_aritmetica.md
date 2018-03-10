@@ -5,17 +5,20 @@ _Imágenes y música de inicio_
 _Todos los ejemplos se ejecutarán en la sección de interacción de Dr.Racket, cada nueva línea es una expresión a ejecutar_
 
 **Instructor:**
-Hola a todos, bienvenidos de vuelta al curso Cómo diseñar programas.
 
-En esta sesión hablaremos sobre los conceptos de expresión, aritmética, función y cómo usarlos para diseñar programas en el lenguaje Racket.
+Hola a todos, bienvenidos al curso Cómo diseñar programas.
 
-Antes de empezar, quiero pedirte que me vayas siguiendo, y cuando ponga un ejemplo, pauses el vídeo y tú también lo escribas, y trates de ir experimentando con cosas que se te ocurran conforme vayamos avanzando. Muy bien, manos a la obra.
+En esta sesión hablaremos sobre los conceptos de expresión, aritmética, y cómo usarlos para diseñar programas en el lenguaje Racket.
 
-Comencemos con las expresiones. Las expresiones son la parte más básica de un programa, más aún, una sola expresión puede ser todo un programa. Cuando decimos expresiones, nos referimos al mismo tipo de expresiones que conoces de tus cursos de matemáticas, y más.
+Abre el entorno de desarrollo Dr. Racket si no lo has hecho aún, vamos a comenzar.
+
+Comencemos con las expresiones. Las expresiones son la parte más básica de un programa, una sola expresión puede ser todo un programa.
 
 _Se muestra el ejemplo 1_
 
-Una expresión puede ser un valor, como un número, una palabra, una constante, o incluso una imagen, o una operación como una suma, una resta, una función.
+En Racket una expresión puede ser un valor, por ejemplo como un número, una palabra, una constante, o incluso una imagen.
+
+Una expresión puede ser también una operación como una suma, una resta, o otra función.
 
 **Ejemplo 1**
 ```Racket
@@ -29,17 +32,20 @@ Una expresión puede ser un valor, como un número, una palabra, una constante, 
 #false
 (poner una imagen :v)
 ```
-Intenta escribir otras cosas que se te ocurran en el área de interacción y ve que cosas son una expresion válida en Racket.
 
-Todas las expresiones que acabamos de escribir cobrarán sentido más adelante.
+Prueba escribir otras cosas que se te ocurran en el área de interacción y ve que cosas son una expresion válida en Racket.
 
-¿Recuerdas que la aritmética es la parte de las matemáticas que estudia los numeros y las operaciones más basicas que pueden realizarse con ellos?.
+Hablaremos más sobre las expresiones que escribimos más adelante.
+
+Hablemos ahora sobre la aritmética.
+
+¿Recuerdas que la aritmética es la parte de las matemáticas que estudia los números y las operaciones más basicas que pueden realizarse con ellos?
 
 La aritmética forma parte de cualquier lenguaje de programación, como Racket. Sin embargo, Racket tiene una notacion distinta para las operaciones básicas como suma, resta multiplicación y división.
 
 _Se muestra y evalua el ejemplo 2_
 
-En Racket se usa una notación polaca o prefija para representar cualquier operación, esto quiere decir que primero se escribe la operación que se realizará y posterior se escriben los operandos. Además cualquier operación se debe escribir entre paréntesis.
+En Racket se usa una notación polaca o prefija para representar cualquier operación, esto quiere decir que primero se escribe la operación que se realizará y después se escriben los operandos. Además cualquier operación se debe escribir entre paréntesis.
 
 **Ejemplo 2**
 
