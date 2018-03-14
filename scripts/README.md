@@ -1,4 +1,3 @@
 # Scripts
 
-Aqui se encuentran los scripts (guiones) utilizados en la realización del curso.
-
+Guiones (scripts) que se utilizaran/utilizaron para la grabación de los videos.

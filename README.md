@@ -1,6 +1,6 @@
-# Massive open online cource: ¿Cómo diseñar programas?
+# Massive Open Online Cource: ¿Cómo diseñar programas?
 
-Documentación y material didáctico del MOOC _¿Cómo diseñar programas?_ desarrollado por el Laboratorio de Investigación y Desarrollo de Software Libre ([LIDSOL](https://lidsol.org/)) de la Facultad de Ingeniería, [Universidad Nacional Autónoma de México](https://www.unam.mx).
+Documentación y material didáctico del MOOC [_¿Cómo diseñar programas?_](https://www.youtube.com/watch?v=zm7Vs0bin88&list=PLvd_owpd6H-k15CISHv615GrcorAF8JUn) desarrollado por el Laboratorio de Investigación y Desarrollo de Software Libre ([LIDSOL](https://lidsol.org/)) de la Facultad de Ingeniería, [Universidad Nacional Autónoma de México](https://www.unam.mx).
 
 ## Objetivo
 
@@ -10,9 +10,16 @@ Saber programar permite ver de forma diferente al mundo, es una destreza cuyo ca
 
 Habitualmente se busca aprender a programar conociendo suficientemente la sintaxis de un lenguaje de programación en particular (Python, Java, JavaScript, Ruby, C++, entre otros) logrando mediante **esfuerzos sucesivos** iniciar la ejecución de programas en el lenguaje seleccionado. Sin embargo, esto **solo es el preambulo** para convertirse en excelentes programadoras y/o programadores.
 
-El lenguaje de programación empleado es _Racket_ con el entorno de desarrollo (IDE) _Dr.Racket_. Dicho lenguaje se  centra en el diseño de programas más que en una sintaxis particular. Esto permite **independencia del lenguaje** y maximiza la posibilidad de diseñar programas. Particularmente se emplea el _Lenguaje Estudiante Principiante_ de Racket ya que poseé **sintaxis mínima**.
+El lenguaje de programación empleado es _Racket_ con el entorno de desarrollo (IDE) _Dr.Racket_ en su versión 6.12 (la más actual en éste momento). Dicho lenguaje se  centra en el diseño de programas más que en una sintaxis particular. Esto permite **independencia del lenguaje** y maximiza la posibilidad de diseñar programas. Particularmente se empleará el _Lenguaje Estudiante Principiante_ de Racket ya que poseé **sintaxis mínima**.
 
-## ¿Dudas?
+## Contenido del repositorio
+
+- **docs**: Documentación útil para trabajar, como pueden ser guías, manuales, herramientas de organización para el proyecto, etc.
+- **ejemplos**: Códigos de ejemplo utilizados durante el curso.
+- **material-grafico**: Elementos gráficos que se vayan creando y utilizando para el proyecto como pueden ser las imágenes de inicio y fin de los videos.
+- **scripts**: Guiones (scripts) que se utilizaran/utilizaron para la grabación de los videos.
+
+## ¿Tienes dudas o deseas contribuir?
 
 Escribe a alguno de los facilitadores:
 
@@ -21,7 +28,9 @@ Escribe a alguno de los facilitadores:
 * luisunamfi@gmail.com
 * emilio1625@gmail.com
 
-Para mayor información de lo que se abordara en el curso puedes revisar el Syllabus que se encuentra en el repo.
+Visita la sección de contacto en nuestro sitio [lidsol.org](https://lidsol.org) o simplemente levanta un issue en el repo ;)
+
+Para mayor información de lo que se abordará en el curso puedes revisar el Syllabus que se encuentra en el repo.
 
 ## Agradecimientos
 
