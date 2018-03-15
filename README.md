@@ -36,6 +36,8 @@ Para mayor información de lo que se abordará en el curso puedes revisar el Syl
 
 Éste proyecto es parte del **PAPIME PE104415 - Drupal Camp y Web Academy**, dirigido por el M. Juan Jóse Carreón Granados, en colaboración con el LIDSOL.
 
+*Se agradece el apoyo otorgado para el desarrollo de este material a DGAPA-UNAM, Proyecto PAPIME PE104415 Drupal Camp y Web Academy*
+
 ## Referencias
 
 Curso basado en el libro [How to design programs 2nd Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)

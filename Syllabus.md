@@ -20,3 +20,6 @@ entender el concepto de función.
 - Presentación del curso
 - Presentación del libro How to Design Programs
 - Instalación del IDE Dr. Racket
+
+
+*Se agradece el apoyo otorgado para el desarrollo de este material a DGAPA-UNAM, Proyecto PAPIME PE104415 Drupal Camp y Web Academy*

@@ -199,3 +199,6 @@ Y este par de operaciones las realizamos casi sin mirar.
 Nota, por favor, como pasamos de una cadena, a un número y por último a un valor de verdad. Los datos que conociamos de nuestro problema se fueron transformando.
 
 Tener claros los datos, sus transformaciones a lo largo de un problema, y analizar el problema paso a paso, nos permitirá diseñar mejores programas, y nos ayudará a resolver problemas complicados no sólo usando un lenguaje de pogramación, sino también en nuestro día a día.
+
+
+*Se agradece el apoyo otorgado para el desarrollo de este material a DGAPA-UNAM, Proyecto PAPIME PE104415 Drupal Camp y Web Academy*

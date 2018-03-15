@@ -66,3 +66,5 @@
 ; Ejemplo 11
 (string-length "programa")
 (> 7 (string-length "programa"))
+
+; Se agradece el apoyo otorgado para el desarrollo de este material a DGAPA-UNAM, Proyecto PAPIME PE104415 Drupal Camp y Web Academy
