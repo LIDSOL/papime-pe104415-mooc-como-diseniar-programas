@@ -16,10 +16,10 @@
    version="1.1"
    id="svg1467"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="02-Instalacion-Windows-10.svg"
-   inkscape:export-filename="/home/pablovc/Documentos/papime-pe104415-mooc-como-diseniar-programas/material-grafico/portadas-videos/02-Instalacion-Windows-10.png"
-   inkscape:export-xdpi="96.402397"
-   inkscape:export-ydpi="96.402397">
+   sodipodi:docname="00-Cortina.svg"
+   inkscape:export-filename="/home/pablovc/Documentos/papime-pe104415-mooc-como-diseniar-programas/material-grafico/portadas-videos/00-Cortina.png"
+   inkscape:export-xdpi="95.555557"
+   inkscape:export-ydpi="95.555557">
   <defs
      id="defs1461">
     <clipPath
@@ -53,8 +53,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4"
-     inkscape:cx="738.53669"
-     inkscape:cy="576.05908"
+     inkscape:cx="894.25341"
+     inkscape:cy="376.70347"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,12 +94,12 @@
      id="layer1"
      transform="translate(0,-11.249954)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79147774;stroke-miterlimit:4;stroke-dasharray:0.79147772, 1.58295546;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80202758;stroke-miterlimit:4;stroke-dasharray:0.80202746, 1.60405497;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1024-3"
-       width="505.87955"
-       height="284.64307"
-       x="0.82759255"
-       y="12.386743" />
+       width="510.36276"
+       height="289.71429"
+       x="-0.64231485"
+       y="10.916836" />
     <path
        style="fill:none;stroke:none;stroke-width:2.62867475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.331843,300.78037 c 0,0 4.1399,-275.717426 284.825237,-287.309151 0,0 165.59609,-7.4518206 178.84378,175.531821 0,0 -0.82799,109.2934 -108.46543,108.46541"
@@ -139,15 +139,15 @@
        y="123.3909"
        id="text3699-2"><tspan
          sodipodi:role="line"
-         x="281.52115"
+         x="286.01355"
          y="123.3909"
          id="tspan3701-9"
-         style="font-size:28.22222137px;stroke-width:0.26458332">Instalación de Dr. Racket</tspan><tspan
+         style="font-size:28.22222137px;stroke-width:0.26458332">Curso </tspan><tspan
          sodipodi:role="line"
          x="281.52115"
          y="158.66867"
          id="tspan3705-1"
-         style="font-size:28.22222137px;stroke-width:0.26458332"> en Windows 10</tspan></text>
+         style="font-size:28.22222137px;stroke-width:0.26458332">&quot;Como diseñar programas&quot;</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39894348;stroke-miterlimit:4;stroke-dasharray:0.39894348, 0.79788698;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1024-0"
@@ -3370,13 +3370,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.49414635px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36314404"
-       x="22.513577"
-       y="251.70775"
+       x="26.942501"
+       y="250.34351"
        id="text1467"><tspan
          sodipodi:role="line"
          id="tspan1465"
-         x="22.513577"
-         y="251.70775"
+         x="26.942501"
+         y="250.34351"
          style="font-size:15.49414635px;stroke-width:0.36314404">PAPIME-PE104415</tspan></text>
   </g>
 </svg>

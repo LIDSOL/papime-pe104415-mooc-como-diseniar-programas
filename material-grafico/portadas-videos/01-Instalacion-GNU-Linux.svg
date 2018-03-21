@@ -16,7 +16,10 @@
    version="1.1"
    id="svg1467"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="01-Instalacion-GNU-Linux.svg">
+   sodipodi:docname="01-Instalacion-GNU-Linux.svg"
+   inkscape:export-filename="/home/pablovc/Documentos/papime-pe104415-mooc-como-diseniar-programas/material-grafico/portadas-videos/01-Instalacion-GNU-Linux.png"
+   inkscape:export-xdpi="96.402397"
+   inkscape:export-ydpi="96.402397">
   <defs
      id="defs1461">
     <clipPath
@@ -49,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26"
-     inkscape:cx="692.79416"
-     inkscape:cy="657.35552"
+     inkscape:zoom="0.4"
+     inkscape:cx="1223.5221"
+     inkscape:cy="48.987823"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,10 +71,10 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-global="false"
-     inkscape:window-width="1596"
-     inkscape:window-height="861"
+     inkscape:window-width="1592"
+     inkscape:window-height="831"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata1464">
@@ -81,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,10 +94,10 @@
      id="layer1"
      transform="translate(0,-11.249954)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79009712;stroke-miterlimit:4;stroke-dasharray:0.79009708, 1.58019418;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79121667;stroke-miterlimit:4;stroke-dasharray:0.79121661, 1.58243325;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1024-3"
        width="505.87955"
-       height="283.65088"
+       height="284.45529"
        x="0.82759255"
        y="12.386743" />
     <path
@@ -3364,5 +3367,16 @@
        height="21.975094"
        x="28.101326"
        y="265.99139" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.49414635px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36314404"
+       x="24.548826"
+       y="249.38414"
+       id="text1467"><tspan
+         sodipodi:role="line"
+         id="tspan1465"
+         x="24.548826"
+         y="249.38414"
+         style="font-size:15.49414635px;stroke-width:0.36314404">PAPIME-PE104415</tspan></text>
   </g>
 </svg>
